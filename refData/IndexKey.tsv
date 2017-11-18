@@ -1,258 +1,258 @@
 Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre
-1		FBbt_	Superior Inferior Protocerebrum	SIP		[503, 127, 226]
-2		FBbt_	Superior Inferior Protocerebrum	SIP		[503, 127, 226]
-3		FBbt_	Tritocerebrum dorsal Right	TRd r		[602, 409, 231]
-4		FBbt_	VNC centrolateral Right	VNCcl r		[611, 928, 261]
-5		FBbt_	Mandibula centrolateral Right	MDcl r		[638, 451, 254]
-6		FBbt_	Maxilla centrolateral Right	MXcl r		[642, 484, 255]
-7		FBbt_	Labium centrolateral Right	LBcl r		[647, 550, 253]
-8		FBbt_	Thoracic Segment 1 centrolateral Right	T1cl r		[633, 637, 253]
-9		FBbt_	Thoracic Segment 2 centrolateral Right	T2cl r		[618, 749, 255]
-10		FBbt_	Thoracic Segment 3 centrolateral Right	T3cl r		[605, 881, 256]
-11		FBbt_	Abdominal Segment 1 centrolateral Right	A1cl r		[594, 991, 257]
-12		FBbt_	Abdominal Segment 2 centrolateral Right	A2cl r		[590, 1080, 257]
-13		FBbt_	Abdominal Segment 3 centrolateral Right	A3cl r		[589, 1164, 260]
-14		FBbt_	Abdominal Segment 4 centrolateral Right	A4cl r		[588, 1243, 267]
-15		FBbt_	Abdominal Segment 5 centrolateral Right	A5cl r		[589, 1332, 275]
-16		FBbt_	Abdominal Segment 6 centrolateral Right	A6cl r		[589, 1415, 282]
-17		FBbt_	Abdominal Segment 7 centrolateral Right	A7cl r		[588, 1490, 295]
-18		FBbt_	Abdominal Segment 8 centrolateral Right	A8cl r		[585, 1546, 305]
-19		FBbt_00007066	Superior Medial Protocerebrum posterior	SMPp		[499, 136, 214]
-20		FBbt_00007065	Superior Medial Protocerebrum anterior	SMPa		[504, 143, 259]
-21		FBbt_00111203	Superior Medial Protocerebrum	SMP		[500, 137, 220]
-22		FBbt_00111207	Fan-shaped Body Primoridum	prFB		[494, 210, 231]
-23		FBbt_	VNC centrolateral Left	VNCcl l		[369, 911, 260]
-24		FBbt_	Mandibula centrolateral Left	MDcl l		[307, 452, 257]
-25		FBbt_	Maxilla centrolateral Left	MXcl l		[308, 486, 254]
-26		FBbt_	Labium centrolateral Left	LBcl l		[317, 549, 253]
-27		FBbt_	Thoracic Segment 1 centrolateral Left	T1cl l		[337, 639, 253]
-28		FBbt_	Thoracic Segment 2 centrolateral Left	T2cl l		[357, 751, 255]
-29		FBbt_	Thoracic Segment 3 centrolateral Left	T3cl l		[375, 877, 255]
-30		FBbt_	Abdominal Segment 1 centrolateral Left	A1cl l		[389, 988, 257]
-31		FBbt_	Abdominal Segment 2 centrolateral Left	A2cl l		[397, 1079, 257]
-32		FBbt_	Abdominal Segment 3 centrolateral Left	A3cl l		[403, 1164, 260]
-33		FBbt_	Abdominal Segment 4 centrolateral Left	A4cl l		[409, 1242, 266]
-34		FBbt_	Abdominal Segment 5 centrolateral Left	A5cl l		[412, 1332, 275]
-35		FBbt_	Abdominal Segment 6 centrolateral Left	A6cl l		[411, 1415, 282]
-36		FBbt_	Abdominal Segment 7 centrolateral Left	A7cl l		[415, 1491, 295]
-37		FBbt_	Abdominal Segment 8 centrolateral Left	A8cl l		[422, 1545, 306]
-38		FBbt_00007129	PErioesophageal NeuroPils	PENP		[486, 298, 259]
-39		FBbt_	Tritocerebrum dorsal Left	TRd l		[368, 411, 231]
-40		FBbt_	VNC ventrolateral Right	VNCvl r		[602, 813, 284]
-41		FBbt_	Mandibula ventrolateral Right	MDvl r		[626, 413, 282]
-42		FBbt_	Maxilla ventrolateral Right	MXvl r		[625, 466, 281]
-43		FBbt_	Labium ventrolateral Right	LBvl r		[621, 534, 276]
-44		FBbt_	Thoracic Segment 1 ventrolateral Right	T1vl r		[608, 641, 274]
-45		FBbt_	Thoracic Segment 2 ventrolateral Right	T2vl r		[600, 769, 274]
-46		FBbt_	Thoracic Segment 3 ventrolateral Right	T3		[591, 892, 274]
-47		FBbt_	Abdominal Segment 1 ventrolateral Right	A1vl r		[577, 1000, 277]
-48		FBbt_	Abdominal Segment 2 ventrolateral Right	A2vl r		[572, 1091, 280]
-49		FBbt_	Abdominal Segment 3 ventrolateral Right	A3vl r		[573, 1174, 286]
-50		FBbt_	Abdominal Segment 4 ventrolateral Right	A4vl r		[575, 1253, 291]
-51		FBbt_	Abdominal Segment 5 ventrolateral Right	A5vl r		[575, 1329, 297]
-52		FBbt_	Abdominal Segment 6 ventrolateral Right	A6vl r		[578, 1410, 305]
-53		FBbt_	Abdominal Segment 7 ventrolateral Right	A7vl r		[575, 1486, 316]
-54		FBbt_	Abdominal Segment 8 ventrolateral Right	A8vl r		[576, 1548, 324]
-55		FBbt_00007118	Crepine	Cr		[489, 196, 255]
-56		FBbt_	Thoracic Segment 3 Leg Neuropil Right	T3Leg r		[651, 902, 262]
-57		FBbt_00007070	Inferior Protocerebrum posterior	IPp		[495, 229, 204]
-58		FBbt_	Thoracic Segment 3 Leg Neuropil Left	T3Leg l		[341, 901, 262]
-59		FBbt_00007067	Lateral Accessory Lobe	LAL		[482, 281, 251]
-60		FBbt_	VNC dorsolateral Left	VNCdl l		[387, 1043, 241]
-61		FBbt_	Maxilla dorsolateral Left	MXdl l		[336, 497, 234]
-62		FBbt_	Labium dorsolateral Left	LBdl l		[332, 556, 232]
-63		FBbt_	Thoracic Segment 1 dorsolateral Left	T1dl l		[346, 642, 232]
-64		FBbt_	Thoracic Segment 2 dorsolateral Left	T2dl l		[362, 741, 235]
-65		FBbt_	Thoracic Segment 3 dorsolateral Left	T3dl l		[374, 847, 233]
-66		FBbt_	Abdominal Segment 1 dorsolateral Left	A1dl l		[383, 946, 230]
-67		FBbt_	Abdominal Segment 2 dorsolateral Left	A2dl l		[390, 1051, 229]
-68		FBbt_	Abdominal Segment 3 dorsolateral Left	A3dl l		[400, 1160, 233]
-69		FBbt_	Abdominal Segment 4 dorsolateral Left	A4dl l		[408, 1254, 240]
-70		FBbt_	Abdominal Segment 5 dorsolateral Left	A5dl l		[415, 1334, 250]
-71		FBbt_	Abdominal Segment 6 dorsolateral Left	A6dl l		[419, 1420, 256]
-72		FBbt_	Abdominal Segment 7 dorsolateral Left	A7dl l		[422, 1500, 266]
-73		FBbt_	Abdominal Segment 8 dorsolateral Left	A8dl l		[425, 1555, 278]
-74		FBbt_	Posterior Lateral Protocerebrum	PLP		[504, 268, 183]
-75		FBbt_	Thoracic Segment 1 Leg Neuropil Left	T1Leg l		[313, 631, 282]
-76		FBbt_	Ventro Medial Cerebrum posterior	VMCp		[489, 304, 199]
-77		FBbt_	Ventro Medial Cerebrum anterior	VMCa		[482, 314, 232]
-78		FBbt_00007063	Ventro Medial Cerebrum	VMC		[485, 310, 217]
-79		FBbt_	Thoracic Segment 1 Leg Neuropil Right	T1Leg r		[658, 634, 281]
-80		FBbt_	VNC dorsolateral Right	VNCdl r		[596, 1044, 241]
-81		FBbt_	Maxilla dorsolateral Right	MXdl r		[635, 500, 234]
-82		FBbt_	Labium dorsolateral Right	LBdl r		[638, 557, 232]
-83		FBbt_	Thoracic Segment 1 dorsolateral Right	T1dl r		[626, 644, 232]
-84		FBbt_	Thoracic Segment 2 dorsolateral Right	T2dl r		[616, 740, 235]
-85		FBbt_	Thoracic Segment 3 dorsolateral Right	T3dl r		[603, 848, 234]
-86		FBbt_	Abdominal Segment 1 dorsolateral Right	A1dl r		[591, 948, 231]
-87		FBbt_	Abdominal Segment 2 dorsolateral Right	A2dl r		[587, 1052, 231]
-88		FBbt_	Abdominal Segment 3 dorsolateral Right	A3dl r		[584, 1159, 234]
-89		FBbt_	Abdominal Segment 4 dorsolateral Right	A4dl r		[582, 1255, 242]
-90		FBbt_	Abdominal Segment 5 dorsolateral Right	A5dl r		[579, 1333, 250]
-91		FBbt_	Abdominal Segment 6 dorsolateral Right	A6dl r		[577, 1420, 257]
-92		FBbt_	Abdominal Segment 7 dorsolateral Right	A7dl r		[575, 1500, 266]
-93		FBbt_	Abdominal Segment 8 dorsolateral Right	A8dl r		[573, 1556, 278]
-94		FBbt_	Terminal Plexus dorsal Left	TPd l		[468, 1601, 327]
-95		FBbt_	Terminal Plexus dorsal Right	TPd r		[546, 1594, 327]
-96		FBbt_	VNC ventrolateral Left	VNCvl l		[375, 819, 284]
-97		FBbt_	Mandibula ventrolateral Left	MDvl l		[325, 422, 282]
-98		FBbt_	Maxilla ventrolateral Left	MXvl l		[329, 466, 281]
-99		FBbt_	Labium ventrolateral Left	LBvl l		[342, 534, 276]
-100		FBbt_	Thoracic Segment 1 ventrolateral Left	T1vl l		[364, 641, 273]
-101		FBbt_	Thoracic Segment 2 ventrolateral Left	T2vl l		[379, 765, 273]
-102		FBbt_	Thoracic Segment 3 ventrolateral Left	T3vl l		[393, 892, 275]
-103		FBbt_	Abdominal Segment 1 ventrolateral Left	A1vl l		[408, 1000, 277]
-104		FBbt_	Abdominal Segment 2 ventrolateral Left	A2vl l		[419, 1090, 280]
-105		FBbt_	Abdominal Segment 3 ventrolateral Left	A3vl l		[425, 1175, 285]
-106		FBbt_	Abdominal Segment 4 ventrolateral Left	A4vl l		[426, 1253, 290]
-107		FBbt_	Abdominal Segment 5 ventrolateral Left	A5vl l		[428, 1330, 297]
-108		FBbt_	Abdominal Segment 6 ventrolateral Left	A6vl l		[429, 1410, 305]
-109		FBbt_	Abdominal Segment 7 ventrolateral Left	A7vl l		[435, 1486, 315]
-110		FBbt_	Abdominal Segment 8 ventrolateral Left	A8vl l		[435, 1550, 325]
-111		FBbt_	VNC dorsomedial Left	VNCdm l		[440, 1008, 240]
-112		FBbt_	Mandibula dorsomedial Left	MDdm l		[397, 460, 235]
-113		FBbt_	Maxilla dorsomedial Left	MXdm l		[409, 492, 233]
-114		FBbt_	Labium dorsomedial Left	LBdm l		[419, 554, 232]
-115		FBbt_	Thoracic Segment 1 dorsomedial Left	T1dm l		[420, 645, 232]
-116		FBbt_	Thoracic Segment 2 dorsomedial Left	T2dm l		[428, 742, 234]
-117		FBbt_	Thoracic Segment 3 dorsomedial Left	T3dm l		[433, 847, 234]
-118		FBbt_	Abdominal Segment 1 dorsomedial Left	A1dm l		[434, 948, 231]
-119		FBbt_	Abdominal Segment 2 dorsomedial Left	A2dm l		[438, 1053, 230]
-120		FBbt_	Abdominal Segment 3 dorsomedial Left	A3dm l		[443, 1159, 234]
-121		FBbt_	Abdominal Segment 4 dorsomedial Left	A4dm l		[454, 1256, 241]
-122		FBbt_	Abdominal Segment 5 dorsomedial Left	A5dm l		[462, 1335, 249]
-123		FBbt_	Abdominal Segment 6 dorsomedial Left	A6dm l		[466, 1420, 255]
-124		FBbt_	Abdominal Segment 7 dorsomedial Left	A7dm l		[466, 1501, 266]
-125		FBbt_	Abdominal Segment 8 dorsomedial Left	A8dm l		[466, 1556, 280]
-126		FBbt_	VNC central Right	VNCc r		[566, 954, 262]
-127		FBbt_	Mandibula central Right	MDc r		[599, 447, 252]
-128		FBbt_	Maxilla central Right	MXc r		[587, 483, 253]
-129		FBbt_	Labium central Right	LBc r		[581, 548, 252]
-130		FBbt_	Thoracic Segment 1 central Right	T1c r		[575, 637, 254]
-131		FBbt_	Thoracic Segment 2 central Right	T2c r		[570, 753, 255]
-132		FBbt_	Thoracic Segment 3 central Right	T3c r		[564, 882, 256]
-133		FBbt_	Abdominal Segment 1 central Right	A1c r		[557, 991, 257]
-134		FBbt_	Abdominal Segment 2 central Right	A2c r		[555, 1080, 259]
-135		FBbt_	Abdominal Segment 3 central Right	A3c r		[555, 1165, 262]
-136		FBbt_	Abdominal Segment 4 central Right	A4c r		[555, 1246, 265]
-137		FBbt_	Abdominal Segment 5 central Right	A5c r		[556, 1330, 273]
-138		FBbt_	Abdominal Segment 6 central Right	A6c r		[557, 1416, 281]
-139		FBbt_	Abdominal Segment 7 central Right	A7c r		[558, 1491, 292]
-140		FBbt_	Abdominal Segment 8 central Right	A8c r		[558, 1549, 304]
-141		FBbt_00111206	Protocerebral Bridge Primoridum	PB		[487, 225, 185]
-142		FBbt_00007068	Ventro Lateral Protocerebrum	VLP		[487, 277, 224]
-143		FBbt_	VNC central Left	VNCc l		[416, 951, 262]
-144		FBbt_	Mandibula central Left	MDc l		[347, 449, 252]
-145		FBbt_	Maxilla central Left	MXc l		[363, 483, 253]
-146		FBbt_	Labium central Left	LBc l		[383, 550, 252]
-147		FBbt_	Thoracic Segment 1 central Left	T1c l		[399, 637, 253]
-148		FBbt_	Thoracic Segment 2 central Left	T2c l		[410, 750, 255]
-149		FBbt_	Thoracic Segment 3 central Left	T3c l		[417, 882, 256]
-150		FBbt_	Abdominal Segment 1 central Left	A1c l		[425, 991, 257]
-151		FBbt_	Abdominal Segment 2 central Left	A2c l		[430, 1080, 259]
-152		FBbt_	Abdominal Segment 3 central Left	A3c l		[435, 1165, 262]
-153		FBbt_	Abdominal Segment 4 central Left	A4c l		[439, 1247, 265]
-154		FBbt_	Abdominal Segment 5 central Left	A5c l		[442, 1330, 272]
-155		FBbt_	Abdominal Segment 6 central Left	A6c l		[442, 1416, 281]
-156		FBbt_	Abdominal Segment 7 central Left	A7c l		[442, 1491, 292]
-157		FBbt_	Abdominal Segment 8 central Left	A8c l		[449, 1549, 304]
-158		FBbt_	VNC dorsomedial Right	VNCdm r		[540, 1007, 240]
-159		FBbt_	Mandibula dorsomedial Right	MDdm r		[573, 458, 235]
-160		FBbt_	Maxilla dorsomedial Right	MXdm r		[561, 492, 234]
-161		FBbt_	Labium dorsomedial Right	LBdm r		[551, 554, 232]
-162		FBbt_	Thoracic Segment 1 dorsomedial Right	T1dm r		[551, 644, 232]
-163		FBbt_	Thoracic Segment 2 dorsomedial Right	T2dm r		[548, 743, 234]
-164		FBbt_	Thoracic Segment 3 dorsomedial Right	T3dm r		[541, 847, 234]
-165		FBbt_	Abdominal Segment 1 dorsomedial Right	A1dm r		[537, 947, 231]
-166		FBbt_	Abdominal Segment 2 dorsomedial Right	A2dm r		[539, 1053, 230]
-167		FBbt_	Abdominal Segment 3 dorsomedial Right	A3dm r		[538, 1159, 234]
-168		FBbt_	Abdominal Segment 4 dorsomedial Right	A4dm r		[534, 1255, 241]
-169		FBbt_	Abdominal Segment 5 dorsomedial Right	A5dm r		[531, 1335, 250]
-170		FBbt_	Abdominal Segment 6 dorsomedial Right	A6dm r		[529, 1421, 256]
-171		FBbt_	Abdominal Segment 7 dorsomedial Right	A7dm r		[529, 1501, 266]
-172		FBbt_	Abdominal Segment 8 dorsomedial Right	A8dm r		[532, 1555, 279]
-173		FBbt_00110191	Medial Appendix of the Medial Lobe	MAML		[491, 245, 244]
-174		FBbt_	Terminal Plexus ventral Left	TPv l		[458, 1599, 290]
-175		FBbt_00111205	Anterior Optic TUbercle Primoridum	AOTU		[493, 149, 250]
-176		FBbt_	Tritocerebrum ventral Right	TRv		[578, 345, 290]
-177		FBbt_	Tritocerebrum central Right	TRc		[622, 410, 253]
-178		FBbt_00111204	Clamp	Cl		[487, 201, 200]
-179		FBbt_	VNC centromedial Right	VNCcm r		[525, 939, 262]
-180		FBbt_	Mandibula centromedial Right	MDcm r		[537, 442, 252]
-181		FBbt_	Maxilla centromedial Right	MXcm r		[527, 482, 253]
-182		FBbt_	Labium centromedial Right	LBcm r		[528, 548, 252]
-183		FBbt_	Thoracic Segment 1 centromedial Right	T1cm r		[527, 639, 253]
-184		FBbt_	Thoracic Segment 2 centromedial Right	T2cm r		[526, 752, 255]
-185		FBbt_	Thoracic Segment 3 centromedial Right	T3cm r		[522, 882, 256]
-186		FBbt_	Abdominal Segment 1 centromedial Right	A1cm r		[519, 991, 258]
-187		FBbt_	Abdominal Segment 2 centromedial Right	A2cm r		[519, 1081, 258]
-188		FBbt_	Abdominal Segment 3 centromedial Right	A3cm r		[521, 1165, 262]
-189		FBbt_	Abdominal Segment 4 centromedial Right	A4cm r		[523, 1244, 267]
-190		FBbt_	Abdominal Segment 5 centromedial Right	A5cm r		[525, 1332, 275]
-191		FBbt_	Abdominal Segment 6 centromedial Right	A6cm r		[526, 1415, 283]
-192		FBbt_	Abdominal Segment 7 centromedial Right	A7cm r		[528, 1491, 294]
-193		FBbt_	Abdominal Segment 8 centromedial Right	A8cm r		[529, 1546, 305]
-194		FBbt_	VNC ventromedial Right	VNCvm r		[531, 866, 285]
-195		FBbt_	Mandibula ventromedial Right	MDvm r		[530, 414, 281]
-196		FBbt_	Maxilla ventromedial Right	MXvm r		[528, 465, 280]
-197		FBbt_	Labium ventromedial Right	LBvm r		[529, 535, 276]
-198		FBbt_	Thoracic Segment 1 ventromedial Right	T1vm r		[532, 640, 275]
-199		FBbt_	Thoracic Segment 2 ventromedial Right	T2vm r		[532, 773, 274]
-200		FBbt_	Thoracic Segment 3 ventromedial Right	T3vm r		[531, 896, 275]
-201		FBbt_	Abdominal Segment 1 ventromedial Right	A1vm r		[529, 1001, 278]
-202		FBbt_	Abdominal Segment 2 ventromedial Right	A2vm r		[527, 1091, 281]
-203		FBbt_	Abdominal Segment 3 ventromedial Right	A3vm r		[531, 1175, 287]
-204		FBbt_	Abdominal Segment 4 ventromedial Right	A4vm r		[534, 1253, 293]
-205		FBbt_	Abdominal Segment 5 ventromedial Right	A5vm r		[534, 1330, 300]
-206		FBbt_	Abdominal Segment 6 ventromedial Right	A6vm r		[536, 1411, 308]
-207		FBbt_	Abdominal Segment 7 ventromedial Right	A7vm r		[536, 1483, 317]
-208		FBbt_	Abdominal Segment 8 ventromedial Right	A8vm r		[535, 1548, 324]
-209		FBbt_00007064	Superior Lateral Protocerebrum	SLp		[487, 149, 199]
-210		FBbt_00007127	Antennal Lobe	AL		[476, 277, 283]
-211		FBbt_	Tritocerebrum centromedial Right	TRcm r		[584, 385, 252]
-212		FBbt_	Tritocerebrum centromedial Left	TRcm l		[370, 385, 253]
-213		FBbt_	VNC centromedial Left	VNCcm l		[456, 929, 262]
-214		FBbt_	Mandibula centromedial Left	MDcm l		[418, 443, 252]
-215		FBbt_	Maxilla centromedial Left	MXcm l		[431, 482, 253]
-216		FBbt_	Labium centromedial Left	LBcm l		[442, 546, 252]
-217		FBbt_	Thoracic Segment 1 centromedial Left	T1cm l		[448, 638, 253]
-218		FBbt_	Thoracic Segment 2 centromedial Left	T2cm l		[453, 753, 255]
-219		FBbt_	Thoracic Segment 3 centromedial Left	T3cm l		[456, 883, 256]
-220		FBbt_	Abdominal Segment 1 centromedial Left	A1cm l		[460, 991, 258]
-221		FBbt_	Abdominal Segment 2 centromedial Left	A2cm l		[464, 1080, 258]
-222		FBbt_	Abdominal Segment 3 centromedial Left	A3cm l		[467, 1165, 262]
-223		FBbt_	Abdominal Segment 4 centromedial Left	A4cm l		[470, 1244, 268]
-224		FBbt_	Abdominal Segment 5 centromedial Left	A5cm l		[475, 1333, 276]
-225		FBbt_	Abdominal Segment 6 centromedial Left	A6cm l		[475, 1415, 284]
-226		FBbt_	Abdominal Segment 7 centromedial Left	A7cm l		[474, 1490, 294]
-227		FBbt_	Abdominal Segment 8 centromedial Left	A8cm l		[480, 1545, 305]
-228		FBbt_	VNC ventromedial Left	VNCvm l		[450, 901, 286]
-229		FBbt_	Mandibula ventromedial Left	MDvm l		[420, 416, 281]
-230		FBbt_	Maxilla ventromedial Left	MXvm l		[424, 465, 280]
-231		FBbt_	Labium ventromedial Left	LBvm l		[434, 535, 276]
-232		FBbt_	Thoracic Segment 1 ventromedial Left	T1vm l		[441, 641, 275]
-233		FBbt_	Thoracic Segment 2 ventromedial Left	T2vm l		[447, 773, 274]
-234		FBbt_	Thoracic Segment 3 ventromedial Left	T3vm l		[452, 896, 275]
-235		FBbt_	Abdominal Segment 1 ventromedial Left	A1vm l		[456, 1001, 278]
-236		FBbt_	Abdominal Segment 2 ventromedial Left	A2vm l		[465, 1092, 281]
-237		FBbt_	Abdominal Segment 3 ventromedial Left	A3vm l		[468, 1175, 287]
-238		FBbt_	Abdominal Segment 4 ventromedial Left	A4vm l		[470, 1254, 293]
-239		FBbt_	Abdominal Segment 5 ventromedial Left	A5vm l		[472, 1330, 299]
-240		FBbt_	Abdominal Segment 6 ventromedial Left	A6vm l		[473, 1410, 308]
-241		FBbt_	Abdominal Segment 7 ventromedial Left	A7vm l		[477, 1484, 317]
-242		FBbt_	Abdominal Segment 8 ventromedial Left	A8vm l		[482, 1551, 325]
-243		FBbt_	Tritocerebrum central Left	TRc l		[325, 416, 252]
-244		FBbt_	Terminal Plexus ventral Right	TPv r		[546, 1587, 287]
-245		FBbt_00110187	Peduncle	PED		[479, 208, 206]
-246		FBbt_00110188	Medial Lobe	ML		[494, 192, 253]
-247		FBbt_00007191	Calyx	CX		[491, 172, 145]
-248		FBbt_00110189	Vertical Lobe	VL		[495, 104, 238]
-249		FBbt_00110186	Spur	SPU		[515, 169, 259]
-250		FBbt_00011929	Mushroom Body	MB		[491, 174, 199]
-251		FBbt_	Noduli Primoridum	prNO		[492, 224, 233]
-252		FBbt_	Thoracic Segment 2 Leg Neuropil Left	T2Leg l		[331, 783, 271]
-253		FBbt_00110190	Lateral Appendix of the Medial Lobe	LAML		[479, 152, 273]
-254		FBbt_	Terminal Plexus centro Left	TPc l		[463, 1606, 311]
-255		FBbt_	Terminal Plexus centro Right	TPc r		[547, 1606, 309]
-256		FBbt_	Thoracic Segment 2 Leg Neuropil Right	T2Leg r		[655, 778, 271]
-257		FBbt_	Tritocerebrum ventral Left	TRv l		[359, 351, 289]
+1	VFB_00050001	FBbt_	Superior Inferior Protocerebrum	SIP		"[503, 127, 226]"
+2	VFB_00050002	FBbt_	Superior Inferior Protocerebrum	SIP		"[503, 127, 226]"
+3	VFB_00050003	FBbt_	Tritocerebrum dorsal Right	TRd r		"[602, 409, 231]"
+4	VFB_00050004	FBbt_	VNC centrolateral Right	VNCcl r		"[611, 928, 261]"
+5	VFB_00050005	FBbt_	Mandibula centrolateral Right	MDcl r		"[638, 451, 254]"
+6	VFB_00050006	FBbt_	Maxilla centrolateral Right	MXcl r		"[642, 484, 255]"
+7	VFB_00050007	FBbt_	Labium centrolateral Right	LBcl r		"[647, 550, 253]"
+8	VFB_00050008	FBbt_	Thoracic Segment 1 centrolateral Right	T1cl r		"[633, 637, 253]"
+9	VFB_00050009	FBbt_	Thoracic Segment 2 centrolateral Right	T2cl r		"[618, 749, 255]"
+10	VFB_00050010	FBbt_	Thoracic Segment 3 centrolateral Right	T3cl r		"[605, 881, 256]"
+11	VFB_00050011	FBbt_	Abdominal Segment 1 centrolateral Right	A1cl r		"[594, 991, 257]"
+12	VFB_00050012	FBbt_	Abdominal Segment 2 centrolateral Right	A2cl r		"[590, 1080, 257]"
+13	VFB_00050013	FBbt_	Abdominal Segment 3 centrolateral Right	A3cl r		"[589, 1164, 260]"
+14	VFB_00050014	FBbt_	Abdominal Segment 4 centrolateral Right	A4cl r		"[588, 1243, 267]"
+15	VFB_00050015	FBbt_	Abdominal Segment 5 centrolateral Right	A5cl r		"[589, 1332, 275]"
+16	VFB_00050016	FBbt_	Abdominal Segment 6 centrolateral Right	A6cl r		"[589, 1415, 282]"
+17	VFB_00050017	FBbt_	Abdominal Segment 7 centrolateral Right	A7cl r		"[588, 1490, 295]"
+18	VFB_00050018	FBbt_	Abdominal Segment 8 centrolateral Right	A8cl r		"[585, 1546, 305]"
+19	VFB_00050019	FBbt_00007066	Superior Medial Protocerebrum posterior	SMPp		"[499, 136, 214]"
+20	VFB_00050020	FBbt_00007065	Superior Medial Protocerebrum anterior	SMPa		"[504, 143, 259]"
+21	VFB_00050021	FBbt_00111203	Superior Medial Protocerebrum	SMP		"[500, 137, 220]"
+22	VFB_00050022	FBbt_00111207	Fan-shaped Body Primoridum	prFB		"[494, 210, 231]"
+23	VFB_00050023	FBbt_	VNC centrolateral Left	VNCcl l		"[369, 911, 260]"
+24	VFB_00050024	FBbt_	Mandibula centrolateral Left	MDcl l		"[307, 452, 257]"
+25	VFB_00050025	FBbt_	Maxilla centrolateral Left	MXcl l		"[308, 486, 254]"
+26	VFB_00050026	FBbt_	Labium centrolateral Left	LBcl l		"[317, 549, 253]"
+27	VFB_00050027	FBbt_	Thoracic Segment 1 centrolateral Left	T1cl l		"[337, 639, 253]"
+28	VFB_00050028	FBbt_	Thoracic Segment 2 centrolateral Left	T2cl l		"[357, 751, 255]"
+29	VFB_00050029	FBbt_	Thoracic Segment 3 centrolateral Left	T3cl l		"[375, 877, 255]"
+30	VFB_00050030	FBbt_	Abdominal Segment 1 centrolateral Left	A1cl l		"[389, 988, 257]"
+31	VFB_00050031	FBbt_	Abdominal Segment 2 centrolateral Left	A2cl l		"[397, 1079, 257]"
+32	VFB_00050032	FBbt_	Abdominal Segment 3 centrolateral Left	A3cl l		"[403, 1164, 260]"
+33	VFB_00050033	FBbt_	Abdominal Segment 4 centrolateral Left	A4cl l		"[409, 1242, 266]"
+34	VFB_00050034	FBbt_	Abdominal Segment 5 centrolateral Left	A5cl l		"[412, 1332, 275]"
+35	VFB_00050035	FBbt_	Abdominal Segment 6 centrolateral Left	A6cl l		"[411, 1415, 282]"
+36	VFB_00050036	FBbt_	Abdominal Segment 7 centrolateral Left	A7cl l		"[415, 1491, 295]"
+37	VFB_00050037	FBbt_	Abdominal Segment 8 centrolateral Left	A8cl l		"[422, 1545, 306]"
+38	VFB_00050038	FBbt_00007129	PErioesophageal NeuroPils	PENP		"[486, 298, 259]"
+39	VFB_00050039	FBbt_	Tritocerebrum dorsal Left	TRd l		"[368, 411, 231]"
+40	VFB_00050040	FBbt_	VNC ventrolateral Right	VNCvl r		"[602, 813, 284]"
+41	VFB_00050041	FBbt_	Mandibula ventrolateral Right	MDvl r		"[626, 413, 282]"
+42	VFB_00050042	FBbt_	Maxilla ventrolateral Right	MXvl r		"[625, 466, 281]"
+43	VFB_00050043	FBbt_	Labium ventrolateral Right	LBvl r		"[621, 534, 276]"
+44	VFB_00050044	FBbt_	Thoracic Segment 1 ventrolateral Right	T1vl r		"[608, 641, 274]"
+45	VFB_00050045	FBbt_	Thoracic Segment 2 ventrolateral Right	T2vl r		"[600, 769, 274]"
+46	VFB_00050046	FBbt_	Thoracic Segment 3 ventrolateral Right	T3		"[591, 892, 274]"
+47	VFB_00050047	FBbt_	Abdominal Segment 1 ventrolateral Right	A1vl r		"[577, 1000, 277]"
+48	VFB_00050048	FBbt_	Abdominal Segment 2 ventrolateral Right	A2vl r		"[572, 1091, 280]"
+49	VFB_00050049	FBbt_	Abdominal Segment 3 ventrolateral Right	A3vl r		"[573, 1174, 286]"
+50	VFB_00050050	FBbt_	Abdominal Segment 4 ventrolateral Right	A4vl r		"[575, 1253, 291]"
+51	VFB_00050051	FBbt_	Abdominal Segment 5 ventrolateral Right	A5vl r		"[575, 1329, 297]"
+52	VFB_00050052	FBbt_	Abdominal Segment 6 ventrolateral Right	A6vl r		"[578, 1410, 305]"
+53	VFB_00050053	FBbt_	Abdominal Segment 7 ventrolateral Right	A7vl r		"[575, 1486, 316]"
+54	VFB_00050054	FBbt_	Abdominal Segment 8 ventrolateral Right	A8vl r		"[576, 1548, 324]"
+55	VFB_00050055	FBbt_00007118	Crepine	Cr		"[489, 196, 255]"
+56	VFB_00050056	FBbt_	Thoracic Segment 3 Leg Neuropil Right	T3Leg r		"[651, 902, 262]"
+57	VFB_00050057	FBbt_00007070	Inferior Protocerebrum posterior	IPp		"[495, 229, 204]"
+58	VFB_00050058	FBbt_	Thoracic Segment 3 Leg Neuropil Left	T3Leg l		"[341, 901, 262]"
+59	VFB_00050059	FBbt_00007067	Lateral Accessory Lobe	LAL		"[482, 281, 251]"
+60	VFB_00050060	FBbt_	VNC dorsolateral Left	VNCdl l		"[387, 1043, 241]"
+61	VFB_00050061	FBbt_	Maxilla dorsolateral Left	MXdl l		"[336, 497, 234]"
+62	VFB_00050062	FBbt_	Labium dorsolateral Left	LBdl l		"[332, 556, 232]"
+63	VFB_00050063	FBbt_	Thoracic Segment 1 dorsolateral Left	T1dl l		"[346, 642, 232]"
+64	VFB_00050064	FBbt_	Thoracic Segment 2 dorsolateral Left	T2dl l		"[362, 741, 235]"
+65	VFB_00050065	FBbt_	Thoracic Segment 3 dorsolateral Left	T3dl l		"[374, 847, 233]"
+66	VFB_00050066	FBbt_	Abdominal Segment 1 dorsolateral Left	A1dl l		"[383, 946, 230]"
+67	VFB_00050067	FBbt_	Abdominal Segment 2 dorsolateral Left	A2dl l		"[390, 1051, 229]"
+68	VFB_00050068	FBbt_	Abdominal Segment 3 dorsolateral Left	A3dl l		"[400, 1160, 233]"
+69	VFB_00050069	FBbt_	Abdominal Segment 4 dorsolateral Left	A4dl l		"[408, 1254, 240]"
+70	VFB_00050070	FBbt_	Abdominal Segment 5 dorsolateral Left	A5dl l		"[415, 1334, 250]"
+71	VFB_00050071	FBbt_	Abdominal Segment 6 dorsolateral Left	A6dl l		"[419, 1420, 256]"
+72	VFB_00050072	FBbt_	Abdominal Segment 7 dorsolateral Left	A7dl l		"[422, 1500, 266]"
+73	VFB_00050073	FBbt_	Abdominal Segment 8 dorsolateral Left	A8dl l		"[425, 1555, 278]"
+74	VFB_00050074	FBbt_	Posterior Lateral Protocerebrum	PLP		"[504, 268, 183]"
+75	VFB_00050075	FBbt_	Thoracic Segment 1 Leg Neuropil Left	T1Leg l		"[313, 631, 282]"
+76	VFB_00050076	FBbt_	Ventro Medial Cerebrum posterior	VMCp		"[489, 304, 199]"
+77	VFB_00050077	FBbt_	Ventro Medial Cerebrum anterior	VMCa		"[482, 314, 232]"
+78	VFB_00050078	FBbt_00007063	Ventro Medial Cerebrum	VMC		"[485, 310, 217]"
+79	VFB_00050079	FBbt_	Thoracic Segment 1 Leg Neuropil Right	T1Leg r		"[658, 634, 281]"
+80	VFB_00050080	FBbt_	VNC dorsolateral Right	VNCdl r		"[596, 1044, 241]"
+81	VFB_00050081	FBbt_	Maxilla dorsolateral Right	MXdl r		"[635, 500, 234]"
+82	VFB_00050082	FBbt_	Labium dorsolateral Right	LBdl r		"[638, 557, 232]"
+83	VFB_00050083	FBbt_	Thoracic Segment 1 dorsolateral Right	T1dl r		"[626, 644, 232]"
+84	VFB_00050084	FBbt_	Thoracic Segment 2 dorsolateral Right	T2dl r		"[616, 740, 235]"
+85	VFB_00050085	FBbt_	Thoracic Segment 3 dorsolateral Right	T3dl r		"[603, 848, 234]"
+86	VFB_00050086	FBbt_	Abdominal Segment 1 dorsolateral Right	A1dl r		"[591, 948, 231]"
+87	VFB_00050087	FBbt_	Abdominal Segment 2 dorsolateral Right	A2dl r		"[587, 1052, 231]"
+88	VFB_00050088	FBbt_	Abdominal Segment 3 dorsolateral Right	A3dl r		"[584, 1159, 234]"
+89	VFB_00050089	FBbt_	Abdominal Segment 4 dorsolateral Right	A4dl r		"[582, 1255, 242]"
+90	VFB_00050090	FBbt_	Abdominal Segment 5 dorsolateral Right	A5dl r		"[579, 1333, 250]"
+91	VFB_00050091	FBbt_	Abdominal Segment 6 dorsolateral Right	A6dl r		"[577, 1420, 257]"
+92	VFB_00050092	FBbt_	Abdominal Segment 7 dorsolateral Right	A7dl r		"[575, 1500, 266]"
+93	VFB_00050093	FBbt_	Abdominal Segment 8 dorsolateral Right	A8dl r		"[573, 1556, 278]"
+94	VFB_00050094	FBbt_	Terminal Plexus dorsal Left	TPd l		"[468, 1601, 327]"
+95	VFB_00050095	FBbt_	Terminal Plexus dorsal Right	TPd r		"[546, 1594, 327]"
+96	VFB_00050096	FBbt_	VNC ventrolateral Left	VNCvl l		"[375, 819, 284]"
+97	VFB_00050097	FBbt_	Mandibula ventrolateral Left	MDvl l		"[325, 422, 282]"
+98	VFB_00050098	FBbt_	Maxilla ventrolateral Left	MXvl l		"[329, 466, 281]"
+99	VFB_00050099	FBbt_	Labium ventrolateral Left	LBvl l		"[342, 534, 276]"
+100	VFB_00050100	FBbt_	Thoracic Segment 1 ventrolateral Left	T1vl l		"[364, 641, 273]"
+101	VFB_00050101	FBbt_	Thoracic Segment 2 ventrolateral Left	T2vl l		"[379, 765, 273]"
+102	VFB_00050102	FBbt_	Thoracic Segment 3 ventrolateral Left	T3vl l		"[393, 892, 275]"
+103	VFB_00050103	FBbt_	Abdominal Segment 1 ventrolateral Left	A1vl l		"[408, 1000, 277]"
+104	VFB_00050104	FBbt_	Abdominal Segment 2 ventrolateral Left	A2vl l		"[419, 1090, 280]"
+105	VFB_00050105	FBbt_	Abdominal Segment 3 ventrolateral Left	A3vl l		"[425, 1175, 285]"
+106	VFB_00050106	FBbt_	Abdominal Segment 4 ventrolateral Left	A4vl l		"[426, 1253, 290]"
+107	VFB_00050107	FBbt_	Abdominal Segment 5 ventrolateral Left	A5vl l		"[428, 1330, 297]"
+108	VFB_00050108	FBbt_	Abdominal Segment 6 ventrolateral Left	A6vl l		"[429, 1410, 305]"
+109	VFB_00050109	FBbt_	Abdominal Segment 7 ventrolateral Left	A7vl l		"[435, 1486, 315]"
+110	VFB_00050110	FBbt_	Abdominal Segment 8 ventrolateral Left	A8vl l		"[435, 1550, 325]"
+111	VFB_00050111	FBbt_	VNC dorsomedial Left	VNCdm l		"[440, 1008, 240]"
+112	VFB_00050112	FBbt_	Mandibula dorsomedial Left	MDdm l		"[397, 460, 235]"
+113	VFB_00050113	FBbt_	Maxilla dorsomedial Left	MXdm l		"[409, 492, 233]"
+114	VFB_00050114	FBbt_	Labium dorsomedial Left	LBdm l		"[419, 554, 232]"
+115	VFB_00050115	FBbt_	Thoracic Segment 1 dorsomedial Left	T1dm l		"[420, 645, 232]"
+116	VFB_00050116	FBbt_	Thoracic Segment 2 dorsomedial Left	T2dm l		"[428, 742, 234]"
+117	VFB_00050117	FBbt_	Thoracic Segment 3 dorsomedial Left	T3dm l		"[433, 847, 234]"
+118	VFB_00050118	FBbt_	Abdominal Segment 1 dorsomedial Left	A1dm l		"[434, 948, 231]"
+119	VFB_00050119	FBbt_	Abdominal Segment 2 dorsomedial Left	A2dm l		"[438, 1053, 230]"
+120	VFB_00050120	FBbt_	Abdominal Segment 3 dorsomedial Left	A3dm l		"[443, 1159, 234]"
+121	VFB_00050121	FBbt_	Abdominal Segment 4 dorsomedial Left	A4dm l		"[454, 1256, 241]"
+122	VFB_00050122	FBbt_	Abdominal Segment 5 dorsomedial Left	A5dm l		"[462, 1335, 249]"
+123	VFB_00050123	FBbt_	Abdominal Segment 6 dorsomedial Left	A6dm l		"[466, 1420, 255]"
+124	VFB_00050124	FBbt_	Abdominal Segment 7 dorsomedial Left	A7dm l		"[466, 1501, 266]"
+125	VFB_00050125	FBbt_	Abdominal Segment 8 dorsomedial Left	A8dm l		"[466, 1556, 280]"
+126	VFB_00050126	FBbt_	VNC central Right	VNCc r		"[566, 954, 262]"
+127	VFB_00050127	FBbt_	Mandibula central Right	MDc r		"[599, 447, 252]"
+128	VFB_00050128	FBbt_	Maxilla central Right	MXc r		"[587, 483, 253]"
+129	VFB_00050129	FBbt_	Labium central Right	LBc r		"[581, 548, 252]"
+130	VFB_00050130	FBbt_	Thoracic Segment 1 central Right	T1c r		"[575, 637, 254]"
+131	VFB_00050131	FBbt_	Thoracic Segment 2 central Right	T2c r		"[570, 753, 255]"
+132	VFB_00050132	FBbt_	Thoracic Segment 3 central Right	T3c r		"[564, 882, 256]"
+133	VFB_00050133	FBbt_	Abdominal Segment 1 central Right	A1c r		"[557, 991, 257]"
+134	VFB_00050134	FBbt_	Abdominal Segment 2 central Right	A2c r		"[555, 1080, 259]"
+135	VFB_00050135	FBbt_	Abdominal Segment 3 central Right	A3c r		"[555, 1165, 262]"
+136	VFB_00050136	FBbt_	Abdominal Segment 4 central Right	A4c r		"[555, 1246, 265]"
+137	VFB_00050137	FBbt_	Abdominal Segment 5 central Right	A5c r		"[556, 1330, 273]"
+138	VFB_00050138	FBbt_	Abdominal Segment 6 central Right	A6c r		"[557, 1416, 281]"
+139	VFB_00050139	FBbt_	Abdominal Segment 7 central Right	A7c r		"[558, 1491, 292]"
+140	VFB_00050140	FBbt_	Abdominal Segment 8 central Right	A8c r		"[558, 1549, 304]"
+141	VFB_00050141	FBbt_00111206	Protocerebral Bridge Primoridum	PB		"[487, 225, 185]"
+142	VFB_00050142	FBbt_00007068	Ventro Lateral Protocerebrum	VLP		"[487, 277, 224]"
+143	VFB_00050143	FBbt_	VNC central Left	VNCc l		"[416, 951, 262]"
+144	VFB_00050144	FBbt_	Mandibula central Left	MDc l		"[347, 449, 252]"
+145	VFB_00050145	FBbt_	Maxilla central Left	MXc l		"[363, 483, 253]"
+146	VFB_00050146	FBbt_	Labium central Left	LBc l		"[383, 550, 252]"
+147	VFB_00050147	FBbt_	Thoracic Segment 1 central Left	T1c l		"[399, 637, 253]"
+148	VFB_00050148	FBbt_	Thoracic Segment 2 central Left	T2c l		"[410, 750, 255]"
+149	VFB_00050149	FBbt_	Thoracic Segment 3 central Left	T3c l		"[417, 882, 256]"
+150	VFB_00050150	FBbt_	Abdominal Segment 1 central Left	A1c l		"[425, 991, 257]"
+151	VFB_00050151	FBbt_	Abdominal Segment 2 central Left	A2c l		"[430, 1080, 259]"
+152	VFB_00050152	FBbt_	Abdominal Segment 3 central Left	A3c l		"[435, 1165, 262]"
+153	VFB_00050153	FBbt_	Abdominal Segment 4 central Left	A4c l		"[439, 1247, 265]"
+154	VFB_00050154	FBbt_	Abdominal Segment 5 central Left	A5c l		"[442, 1330, 272]"
+155	VFB_00050155	FBbt_	Abdominal Segment 6 central Left	A6c l		"[442, 1416, 281]"
+156	VFB_00050156	FBbt_	Abdominal Segment 7 central Left	A7c l		"[442, 1491, 292]"
+157	VFB_00050157	FBbt_	Abdominal Segment 8 central Left	A8c l		"[449, 1549, 304]"
+158	VFB_00050158	FBbt_	VNC dorsomedial Right	VNCdm r		"[540, 1007, 240]"
+159	VFB_00050159	FBbt_	Mandibula dorsomedial Right	MDdm r		"[573, 458, 235]"
+160	VFB_00050160	FBbt_	Maxilla dorsomedial Right	MXdm r		"[561, 492, 234]"
+161	VFB_00050161	FBbt_	Labium dorsomedial Right	LBdm r		"[551, 554, 232]"
+162	VFB_00050162	FBbt_	Thoracic Segment 1 dorsomedial Right	T1dm r		"[551, 644, 232]"
+163	VFB_00050163	FBbt_	Thoracic Segment 2 dorsomedial Right	T2dm r		"[548, 743, 234]"
+164	VFB_00050164	FBbt_	Thoracic Segment 3 dorsomedial Right	T3dm r		"[541, 847, 234]"
+165	VFB_00050165	FBbt_	Abdominal Segment 1 dorsomedial Right	A1dm r		"[537, 947, 231]"
+166	VFB_00050166	FBbt_	Abdominal Segment 2 dorsomedial Right	A2dm r		"[539, 1053, 230]"
+167	VFB_00050167	FBbt_	Abdominal Segment 3 dorsomedial Right	A3dm r		"[538, 1159, 234]"
+168	VFB_00050168	FBbt_	Abdominal Segment 4 dorsomedial Right	A4dm r		"[534, 1255, 241]"
+169	VFB_00050169	FBbt_	Abdominal Segment 5 dorsomedial Right	A5dm r		"[531, 1335, 250]"
+170	VFB_00050170	FBbt_	Abdominal Segment 6 dorsomedial Right	A6dm r		"[529, 1421, 256]"
+171	VFB_00050171	FBbt_	Abdominal Segment 7 dorsomedial Right	A7dm r		"[529, 1501, 266]"
+172	VFB_00050172	FBbt_	Abdominal Segment 8 dorsomedial Right	A8dm r		"[532, 1555, 279]"
+173	VFB_00050173	FBbt_00110191	Medial Appendix of the Medial Lobe	MAML		"[491, 245, 244]"
+174	VFB_00050174	FBbt_	Terminal Plexus ventral Left	TPv l		"[458, 1599, 290]"
+175	VFB_00050175	FBbt_00111205	Anterior Optic TUbercle Primoridum	AOTU		"[493, 149, 250]"
+176	VFB_00050176	FBbt_	Tritocerebrum ventral Right	TRv		"[578, 345, 290]"
+177	VFB_00050177	FBbt_	Tritocerebrum central Right	TRc		"[622, 410, 253]"
+178	VFB_00050178	FBbt_00111204	Clamp	Cl		"[487, 201, 200]"
+179	VFB_00050179	FBbt_	VNC centromedial Right	VNCcm r		"[525, 939, 262]"
+180	VFB_00050180	FBbt_	Mandibula centromedial Right	MDcm r		"[537, 442, 252]"
+181	VFB_00050181	FBbt_	Maxilla centromedial Right	MXcm r		"[527, 482, 253]"
+182	VFB_00050182	FBbt_	Labium centromedial Right	LBcm r		"[528, 548, 252]"
+183	VFB_00050183	FBbt_	Thoracic Segment 1 centromedial Right	T1cm r		"[527, 639, 253]"
+184	VFB_00050184	FBbt_	Thoracic Segment 2 centromedial Right	T2cm r		"[526, 752, 255]"
+185	VFB_00050185	FBbt_	Thoracic Segment 3 centromedial Right	T3cm r		"[522, 882, 256]"
+186	VFB_00050186	FBbt_	Abdominal Segment 1 centromedial Right	A1cm r		"[519, 991, 258]"
+187	VFB_00050187	FBbt_	Abdominal Segment 2 centromedial Right	A2cm r		"[519, 1081, 258]"
+188	VFB_00050188	FBbt_	Abdominal Segment 3 centromedial Right	A3cm r		"[521, 1165, 262]"
+189	VFB_00050189	FBbt_	Abdominal Segment 4 centromedial Right	A4cm r		"[523, 1244, 267]"
+190	VFB_00050190	FBbt_	Abdominal Segment 5 centromedial Right	A5cm r		"[525, 1332, 275]"
+191	VFB_00050191	FBbt_	Abdominal Segment 6 centromedial Right	A6cm r		"[526, 1415, 283]"
+192	VFB_00050192	FBbt_	Abdominal Segment 7 centromedial Right	A7cm r		"[528, 1491, 294]"
+193	VFB_00050193	FBbt_	Abdominal Segment 8 centromedial Right	A8cm r		"[529, 1546, 305]"
+194	VFB_00050194	FBbt_	VNC ventromedial Right	VNCvm r		"[531, 866, 285]"
+195	VFB_00050195	FBbt_	Mandibula ventromedial Right	MDvm r		"[530, 414, 281]"
+196	VFB_00050196	FBbt_	Maxilla ventromedial Right	MXvm r		"[528, 465, 280]"
+197	VFB_00050197	FBbt_	Labium ventromedial Right	LBvm r		"[529, 535, 276]"
+198	VFB_00050198	FBbt_	Thoracic Segment 1 ventromedial Right	T1vm r		"[532, 640, 275]"
+199	VFB_00050199	FBbt_	Thoracic Segment 2 ventromedial Right	T2vm r		"[532, 773, 274]"
+200	VFB_00050200	FBbt_	Thoracic Segment 3 ventromedial Right	T3vm r		"[531, 896, 275]"
+201	VFB_00050201	FBbt_	Abdominal Segment 1 ventromedial Right	A1vm r		"[529, 1001, 278]"
+202	VFB_00050202	FBbt_	Abdominal Segment 2 ventromedial Right	A2vm r		"[527, 1091, 281]"
+203	VFB_00050203	FBbt_	Abdominal Segment 3 ventromedial Right	A3vm r		"[531, 1175, 287]"
+204	VFB_00050204	FBbt_	Abdominal Segment 4 ventromedial Right	A4vm r		"[534, 1253, 293]"
+205	VFB_00050205	FBbt_	Abdominal Segment 5 ventromedial Right	A5vm r		"[534, 1330, 300]"
+206	VFB_00050206	FBbt_	Abdominal Segment 6 ventromedial Right	A6vm r		"[536, 1411, 308]"
+207	VFB_00050207	FBbt_	Abdominal Segment 7 ventromedial Right	A7vm r		"[536, 1483, 317]"
+208	VFB_00050208	FBbt_	Abdominal Segment 8 ventromedial Right	A8vm r		"[535, 1548, 324]"
+209	VFB_00050209	FBbt_00007064	Superior Lateral Protocerebrum	SLp		"[487, 149, 199]"
+210	VFB_00050210	FBbt_00007127	Antennal Lobe	AL		"[476, 277, 283]"
+211	VFB_00050211	FBbt_	Tritocerebrum centromedial Right	TRcm r		"[584, 385, 252]"
+212	VFB_00050212	FBbt_	Tritocerebrum centromedial Left	TRcm l		"[370, 385, 253]"
+213	VFB_00050213	FBbt_	VNC centromedial Left	VNCcm l		"[456, 929, 262]"
+214	VFB_00050214	FBbt_	Mandibula centromedial Left	MDcm l		"[418, 443, 252]"
+215	VFB_00050215	FBbt_	Maxilla centromedial Left	MXcm l		"[431, 482, 253]"
+216	VFB_00050216	FBbt_	Labium centromedial Left	LBcm l		"[442, 546, 252]"
+217	VFB_00050217	FBbt_	Thoracic Segment 1 centromedial Left	T1cm l		"[448, 638, 253]"
+218	VFB_00050218	FBbt_	Thoracic Segment 2 centromedial Left	T2cm l		"[453, 753, 255]"
+219	VFB_00050219	FBbt_	Thoracic Segment 3 centromedial Left	T3cm l		"[456, 883, 256]"
+220	VFB_00050220	FBbt_	Abdominal Segment 1 centromedial Left	A1cm l		"[460, 991, 258]"
+221	VFB_00050221	FBbt_	Abdominal Segment 2 centromedial Left	A2cm l		"[464, 1080, 258]"
+222	VFB_00050222	FBbt_	Abdominal Segment 3 centromedial Left	A3cm l		"[467, 1165, 262]"
+223	VFB_00050223	FBbt_	Abdominal Segment 4 centromedial Left	A4cm l		"[470, 1244, 268]"
+224	VFB_00050224	FBbt_	Abdominal Segment 5 centromedial Left	A5cm l		"[475, 1333, 276]"
+225	VFB_00050225	FBbt_	Abdominal Segment 6 centromedial Left	A6cm l		"[475, 1415, 284]"
+226	VFB_00050226	FBbt_	Abdominal Segment 7 centromedial Left	A7cm l		"[474, 1490, 294]"
+227	VFB_00050227	FBbt_	Abdominal Segment 8 centromedial Left	A8cm l		"[480, 1545, 305]"
+228	VFB_00050228	FBbt_	VNC ventromedial Left	VNCvm l		"[450, 901, 286]"
+229	VFB_00050229	FBbt_	Mandibula ventromedial Left	MDvm l		"[420, 416, 281]"
+230	VFB_00050230	FBbt_	Maxilla ventromedial Left	MXvm l		"[424, 465, 280]"
+231	VFB_00050231	FBbt_	Labium ventromedial Left	LBvm l		"[434, 535, 276]"
+232	VFB_00050232	FBbt_	Thoracic Segment 1 ventromedial Left	T1vm l		"[441, 641, 275]"
+233	VFB_00050233	FBbt_	Thoracic Segment 2 ventromedial Left	T2vm l		"[447, 773, 274]"
+234	VFB_00050234	FBbt_	Thoracic Segment 3 ventromedial Left	T3vm l		"[452, 896, 275]"
+235	VFB_00050235	FBbt_	Abdominal Segment 1 ventromedial Left	A1vm l		"[456, 1001, 278]"
+236	VFB_00050236	FBbt_	Abdominal Segment 2 ventromedial Left	A2vm l		"[465, 1092, 281]"
+237	VFB_00050237	FBbt_	Abdominal Segment 3 ventromedial Left	A3vm l		"[468, 1175, 287]"
+238	VFB_00050238	FBbt_	Abdominal Segment 4 ventromedial Left	A4vm l		"[470, 1254, 293]"
+239	VFB_00050239	FBbt_	Abdominal Segment 5 ventromedial Left	A5vm l		"[472, 1330, 299]"
+240	VFB_00050240	FBbt_	Abdominal Segment 6 ventromedial Left	A6vm l		"[473, 1410, 308]"
+241	VFB_00050241	FBbt_	Abdominal Segment 7 ventromedial Left	A7vm l		"[477, 1484, 317]"
+242	VFB_00050242	FBbt_	Abdominal Segment 8 ventromedial Left	A8vm l		"[482, 1551, 325]"
+243	VFB_00050243	FBbt_	Tritocerebrum central Left	TRc l		"[325, 416, 252]"
+244	VFB_00050244	FBbt_	Terminal Plexus ventral Right	TPv r		"[546, 1587, 287]"
+245	VFB_00050245	FBbt_00110187	Peduncle	PED		"[479, 208, 206]"
+246	VFB_00050246	FBbt_00110188	Medial Lobe	ML		"[494, 192, 253]"
+247	VFB_00050247	FBbt_00007191	Calyx	CX		"[491, 172, 145]"
+248	VFB_00050248	FBbt_00110189	Vertical Lobe	VL		"[495, 104, 238]"
+249	VFB_00050249	FBbt_00110186	Spur	SPU		"[515, 169, 259]"
+250	VFB_00050250	FBbt_00011929	Mushroom Body	MB		"[491, 174, 199]"
+251	VFB_00050251	FBbt_	Noduli Primoridum	prNO		"[492, 224, 233]"
+252	VFB_00050252	FBbt_	Thoracic Segment 2 Leg Neuropil Left	T2Leg l		"[331, 783, 271]"
+253	VFB_00050253	FBbt_00110190	Lateral Appendix of the Medial Lobe	LAML		"[479, 152, 273]"
+254	VFB_00050254	FBbt_	Terminal Plexus centro Left	TPc l		"[463, 1606, 311]"
+255	VFB_00050255	FBbt_	Terminal Plexus centro Right	TPc r		"[547, 1606, 309]"
+256	VFB_00050256	FBbt_	Thoracic Segment 2 Leg Neuropil Right	T2Leg r		"[655, 778, 271]"
+257	VFB_00050257	FBbt_	Tritocerebrum ventral Left	TRv l		"[359, 351, 289]"
