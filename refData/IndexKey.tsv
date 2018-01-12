@@ -44,13 +44,13 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 43	VFB_00050044	FBbt_	Thoracic Segment 1 ventrolateral Right	T1vl R		[608, 641, 274]	addd8e
 44	VFB_00050045	FBbt_	Thoracic Segment 2 ventrolateral Right	T2vl R		[600, 769, 274]	78c679
 45	VFB_00050046	FBbt_	Thoracic Segment 3 ventrolateral Right	T3vl R		[591, 892, 274]	addd8e
-46	VFB_00050047	FBbt_	Abdominal Segment 1 ventrolateral Right	A1vl R		[577, 1000, 277]	dc8467
+46	VFB_00050047	FBbt_	Abdominal Segment 1 ventrolateral Right	A1vl R		[577, 1000, 277]	fee391
 47	VFB_00050048	FBbt_	Abdominal Segment 2 ventrolateral Right	A2vl R		[572, 1090, 279]	ec9b85
-48	VFB_00050049	FBbt_	Abdominal Segment 3 ventrolateral Right	A3vl R		[572, 1175, 285]	dc8467
+48	VFB_00050049	FBbt_	Abdominal Segment 3 ventrolateral Right	A3vl R		[572, 1175, 285]	fee391
 49	VFB_00050050	FBbt_	Abdominal Segment 4 ventrolateral Right	A4vl R		[574, 1254, 290]	ec9b85
-50	VFB_00050051	FBbt_	Abdominal Segment 5 ventrolateral Right	A5vl R		[575, 1330, 297]	dc8467
+50	VFB_00050051	FBbt_	Abdominal Segment 5 ventrolateral Right	A5vl R		[575, 1330, 297]	fee391
 51	VFB_00050052	FBbt_	Abdominal Segment 6 ventrolateral Right	A6vl R		[578, 1410, 305]	ec9b85
-52	VFB_00050053	FBbt_	Abdominal Segment 7 ventrolateral Right	A7vl R		[575, 1486, 316]	dc8467
+52	VFB_00050053	FBbt_	Abdominal Segment 7 ventrolateral Right	A7vl R		[575, 1486, 316]	fee391
 53	VFB_00050054	FBbt_	Abdominal Segment 8 ventrolateral Right	A8vl R		[576, 1547, 324]	ec9b85
 54	VFB_00050055	FBbt_00007118	Crepine	CR		[488, 198, 250]	993404
 55	VFB_00050056	FBbt_	Thoracic Segment 3 Leg Neuropil Right	T3Leg R		[651, 902, 262]	c85d68
@@ -199,13 +199,13 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 198	VFB_00050199	FBbt_	Thoracic Segment 2 ventromedial Right	T2vm R		[532, 773, 274]	addd8e
 199	VFB_00050200	FBbt_	Thoracic Segment 3 ventromedial Right	T3vm R		[531, 896, 275]	74a9cf
 200	VFB_00050201	FBbt_	Abdominal Segment 1 ventromedial Right	A1vm R		[529, 1001, 278]	fec44f
-201	VFB_00050202	FBbt_	Abdominal Segment 2 ventromedial Right	A2vm R		[527, 1091, 281]	dc8467
+201	VFB_00050202	FBbt_	Abdominal Segment 2 ventromedial Right	A2vm R		[527, 1091, 281]	fee391
 202	VFB_00050203	FBbt_	Abdominal Segment 3 ventromedial Right	A3vm R		[531, 1175, 287]	fec44f
-203	VFB_00050204	FBbt_	Abdominal Segment 4 ventromedial Right	A4vm R		[534, 1253, 293]	dc8467
+203	VFB_00050204	FBbt_	Abdominal Segment 4 ventromedial Right	A4vm R		[534, 1253, 293]	fee391
 204	VFB_00050205	FBbt_	Abdominal Segment 5 ventromedial Right	A5vm R		[534, 1330, 300]	fec44f
-205	VFB_00050206	FBbt_	Abdominal Segment 6 ventromedial Right	A6vm R		[536, 1410, 308]	dc8467
+205	VFB_00050206	FBbt_	Abdominal Segment 6 ventromedial Right	A6vm R		[536, 1410, 308]	fee391
 206	VFB_00050207	FBbt_	Abdominal Segment 7 ventromedial Right	A7vm R		[536, 1483, 317]	fec44f
-207	VFB_00050208	FBbt_	Abdominal Segment 8 ventromedial Right	A8vm R		[535, 1548, 324]	dc8467
+207	VFB_00050208	FBbt_	Abdominal Segment 8 ventromedial Right	A8vm R		[535, 1548, 324]	fee391
 208	VFB_00050209	FBbt_00007064	Superior Lateral Protocerebrum	SLP		[486, 150, 200]	addd8e
 209	VFB_00050210	FBbt_00007127	Antennal Lobe	AL		[476, 278, 282]	0014cc
 210	VFB_00050211	FBbt_	Tritocerebrum centromedial Right	TRcm R		[580, 367, 254]	9ebcda
