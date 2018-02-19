@@ -59,7 +59,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 58	VFB_00050059	FBbt_00007067	Lateral Accessory Lobe	LAL		[481, 279, 252]	40e617
 59	VFB_00050060	FBbt_	VNC dorsolateral Left	VNCdl L		[387, 1047, 241]	005029
 60	VFB_00050061	FBbt_	Maxilla dorsolateral Left	MXdl L		[336, 497, 234]	980043
-61	VFB_00050062	FBbt_	Labium dorsolateral Left	LBdl L		[332, 556, 232]	3465a4
+61	VFB_00050062	FBbt_	Labium dorsolateral Left	LBdl L		[332, 556, 232]	67001f
 62	VFB_00050063	FBbt_	Thoracic Segment 1 dorsolateral Left	T1dl L		[346, 642, 232]	006837
 63	VFB_00050064	FBbt_	Thoracic Segment 2 dorsolateral Left	T2dl L		[362, 741, 235]	004529
 64	VFB_00050065	FBbt_	Thoracic Segment 3 dorsolateral Left	T3dl L		[374, 847, 233]	006837
@@ -79,7 +79,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 78	VFB_00050079	FBbt_	Thoracic Segment 1 Leg Neuropil Right	T1Leg R		[658, 634, 281]	c85d68
 79	VFB_00050080	FBbt_	VNC dorsolateral Right	VNCdl R		[596, 1048, 241]	005029
 80	VFB_00050081	FBbt_	Maxilla dorsolateral Right	MXdl R		[634, 500, 234]	980043
-81	VFB_00050082	FBbt_	Labium dorsolateral Right	LBdl R		[638, 557, 232]	3465a4
+81	VFB_00050082	FBbt_	Labium dorsolateral Right	LBdl R		[638, 557, 232]	67001f
 82	VFB_00050083	FBbt_	Thoracic Segment 1 dorsolateral Right	T1dl R		[626, 644, 232]	006837
 83	VFB_00050084	FBbt_	Thoracic Segment 2 dorsolateral Right	T2dl R		[616, 740, 235]	004529
 84	VFB_00050085	FBbt_	Thoracic Segment 3 dorsolateral Right	T3dl R		[603, 848, 234]	006837
@@ -254,6 +254,8 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 253	VFB_00050255	FBbt_	Abdominal Segment 9 centro Right	A9c R		[547, 1607, 311]	de6c19
 254	VFB_00050256	FBbt_	Thoracic Segment 2 Leg Neuropil Right	T2Leg R		[655, 778, 271]	c85d68
 255	VFB_00050257	FBbt_	Tritocerebrum ventral Left	TRv L		[359, 351, 289]	8c96c6
+256		FBbt_	Mandibula dorsolateral Right	MDdl R			67001f
+257		FBbt_	Mandibula dorsolateral Left	MDdl L			67001f
 500			BAla1 Left			[306 280 266]	
 501			BAla1 Right			[655 276 265]	
 502			BAla2 Left			[297 297 276]	
