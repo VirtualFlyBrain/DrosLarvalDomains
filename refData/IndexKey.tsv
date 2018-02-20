@@ -16,8 +16,8 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 15	VFB_00050016	FBbt_	Abdominal Segment 6 centrolateral Right	A6cl R		[589, 1415, 282]	cb6d4f
 16	VFB_00050017	FBbt_	Abdominal Segment 7 centrolateral Right	A7cl R		[588, 1490, 294]	b9563e
 17	VFB_00050018	FBbt_	Abdominal Segment 8 centrolateral Right	A8cl R		[585, 1547, 306]	cb6d4f
-18	VFB_00050019	FBbt_00007066	Superior Medial Protocerebrum posterior	SMPp		[499, 136, 215]	86a76f
-19	VFB_00050020	FBbt_00007065	Superior Medial Protocerebrum anterior	SMPa		[504, 143, 259]	c7e7b2
+18	VFB_00050019	FBbt_00007066	posterior Superior Medial Protocerebrum	SMPp		[499, 136, 215]	86a76f
+19	VFB_00050020	FBbt_00007065	anterior Superior Medial Protocerebrum	SMPa		[504, 143, 259]	c7e7b2
 20	VFB_00050021	FBbt_00111203	Superior Medial Protocerebrum	SMP		[500, 137, 220]	addd8e
 21	VFB_00050022	FBbt_00111207	Fan-shaped Body Primoridum	prFB		[494, 210, 230]	646464
 22	VFB_00050023	FBbt_	VNC centrolateral Left	VNCcl L		[369, 912, 260]	389b64
@@ -54,7 +54,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 53	VFB_00050054	FBbt_	Abdominal Segment 8 ventrolateral Right	A8vl R		[576, 1547, 324]	ec9b85
 54	VFB_00050055	FBbt_00007118	Crepine	CR		[488, 198, 250]	993404
 55	VFB_00050056	FBbt_	Thoracic Segment 3 Leg Neuropil Right	T3Leg R		[651, 902, 262]	c85d68
-56	VFB_00050057	FBbt_00007070	Inferior Protocerebrum posterior	IPp		[495, 229, 204]	ec7014
+56	VFB_00050057	FBbt_00007070	posterior Inferior Protocerebrum	IPp		[495, 229, 204]	ec7014
 57	VFB_00050058	FBbt_	Thoracic Segment 3 Leg Neuropil Left	T3Leg L		[341, 901, 262]	c85d68
 58	VFB_00050059	FBbt_00007067	Lateral Accessory Lobe	LAL		[481, 279, 252]	40e617
 59	VFB_00050060	FBbt_	VNC dorsolateral Left	VNCdl L		[387, 1047, 241]	005029
@@ -73,8 +73,8 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 72	VFB_00050073	FBbt_	Abdominal Segment 8 dorsolateral Left	A8dl L		[425, 1558, 280]	9d3e33
 73	VFB_00050074	FBbt_	Posterior Lateral Protocerebrum	PLP		[504, 269, 183]	ccb758
 74	VFB_00050075	FBbt_	Thoracic Segment 1 Leg Neuropil Left	T1Leg L		[313, 631, 282]	c85d68
-75	VFB_00050076	FBbt_	Ventro Medial Cerebrum posterior	VMCp		[489, 304, 199]	003264
-76	VFB_00050077	FBbt_	Ventro Medial Cerebrum anterior	VMCa		[482, 313, 233]	003264
+75	VFB_00050076	FBbt_	posterior Ventro Medial Cerebrum	VMCp		[489, 304, 199]	003264
+76	VFB_00050077	FBbt_	anterior Ventro Medial Cerebrum	VMCa		[482, 313, 233]	003264
 77	VFB_00050078	FBbt_00007063	Ventro Medial Cerebrum	VMC		[485, 309, 217]	264983
 78	VFB_00050079	FBbt_	Thoracic Segment 1 Leg Neuropil Right	T1Leg R		[658, 634, 281]	c85d68
 79	VFB_00050080	FBbt_	VNC dorsolateral Right	VNCdl R		[596, 1048, 241]	005029
