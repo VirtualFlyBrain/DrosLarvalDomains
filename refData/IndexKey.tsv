@@ -1,5 +1,5 @@
 Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
-1	VFB_00050002	FBbt_	Superior Inferior Protocerebrum	SIP		[498, 129, 227]	78c679
+1	VFB_00050002	FBbt_	Superior Intermediate Protocerebrum	SIP		[498, 129, 227]	78c679
 2	VFB_00050003	FBbt_	Tritocerebrum dorsal Right	TRd R		[602, 409, 231]	88419d
 3	VFB_00050004	FBbt_	VNC centrolateral Right	VNCcl R		[611, 926, 261]	389b64
 4	VFB_00050005	FBbt_	Mandibula centrolateral Right	MDcl R		[641, 458, 253]	ce1256
@@ -91,8 +91,8 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 90	VFB_00050091	FBbt_	Abdominal Segment 6 dorsolateral Right	A6dl R		[577, 1420, 257]	9d3e33
 91	VFB_00050092	FBbt_	Abdominal Segment 7 dorsolateral Right	A7dl R		[575, 1500, 266]	94262a
 92	VFB_00050093	FBbt_	Abdominal Segment 8 dorsolateral Right	A8dl R		[573, 1559, 279]	9d3e33
-93	VFB_00050094	FBbt_	Abdominal Segment 9 dorsal Left	A9d L		[468, 1602, 327]	fec44f
-94	VFB_00050095	FBbt_	Abdominal Segment 9 dorsal Right	A9d R		[547, 1594, 327]	fec44f
+93	VFB_00050094	FBbt_	Abdominal Segment 9 ventral Left	A9v L		[468, 1602, 327]	fec44f
+94	VFB_00050095	FBbt_	Abdominal Segment 9 ventral Right	A9v R		[547, 1594, 327]	fec44f
 95	VFB_00050096	FBbt_	VNC ventrolateral Left	VNCvl L		[375, 820, 284]	84cb86
 96	VFB_00050097	FBbt_	Mandibula ventrolateral Left	MDvl L		[324, 425, 280]	df65b0
 97	VFB_00050098	FBbt_	Maxilla ventrolateral Left	MXvl L		[330, 467, 282]	c994c7
@@ -171,7 +171,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 170	VFB_00050171	FBbt_	Abdominal Segment 7 dorsomedial Right	A7dm R		[529, 1501, 266]	993404
 171	VFB_00050172	FBbt_	Abdominal Segment 8 dorsomedial Right	A8dm R		[532, 1559, 280]	cc4c02
 172	VFB_00050173	FBbt_00110191	Lower Toe	LT		[490, 245, 244]	800026
-173	VFB_00050174	FBbt_	Abdominal Segment 9 ventral Left	A9v L		[459, 1604, 290]	993404
+173	VFB_00050174	FBbt_	Abdominal Segment 9 dorsal Left	A9d L		[459, 1604, 290]	993404
 174	VFB_00050175	FBbt_00111205	Anterior Optic Tubercle Primoridum	AOTU		[492, 149, 250]	646464
 175	VFB_00050176	FBbt_	Tritocerebrum ventral Right	TRv R		[578, 345, 290]	8c96c6
 176	VFB_00050177	FBbt_	Tritocerebrum central Right	TRc R		[621, 410, 253]	8c6bb1
@@ -241,7 +241,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 240	VFB_00050241	FBbt_	Abdominal Segment 7 ventromedial Left	A7vm L		[477, 1484, 317]	fec44f
 241	VFB_00050242	FBbt_	Abdominal Segment 8 ventromedial Left	A8vm L		[482, 1551, 325]	fee391
 242	VFB_00050243	FBbt_	Tritocerebrum central Left	TRc L		[325, 415, 252]	8c6bb1
-243	VFB_00050244	FBbt_	Abdominal Segment 9 ventral Right	A9v R		[545, 1603, 290]	993404
+243	VFB_00050244	FBbt_	Abdominal Segment 9 dorsal Right	A9d R		[545, 1603, 290]	993404
 244	VFB_00050245	FBbt_00110187	Peduncle	PED		[479, 212, 200]	bd0026
 245	VFB_00050246	FBbt_00110188	Medial Lobe	ML		[493, 204, 251]	c80e0e
 246	VFB_00050247	FBbt_00007191	Calyx	CX		[491, 172, 145]	800026
