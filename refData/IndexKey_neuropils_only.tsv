@@ -1,6 +1,6 @@
 Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 1	VFB_00050002	FBbt_00045032	Superior Intermdiate Protocerebrum	SIP		[498, 129, 227]	78c679
-2	VFB_00050003		Tritocerebrum dorsal Right	TRd R		[602, 409, 231]	88419d
+2	VFB_00050003	FBbt_00007719	Tritocerebrum dorsal Right	TRd R		[602, 409, 231]	88419d
 3	VFB_00050004	FBbt_00007704	VNC centrolateral Right	VNCcl R		[611, 929, 261]	389b64
 4	VFB_00050005	FBbt_00015028	Mandibula centrolateral Right	MDcl R		[638, 450, 254]	ce1256
 5	VFB_00050006	FBbt_00015035	Maxilla centrolateral Right	MXcl R		[642, 484, 255]	e7298a
@@ -36,7 +36,7 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 35	VFB_00050036	FBbt_00015084	Abdominal Segment 7 centrolateral Left	A7cl L		[415, 1491, 295]	b9563e
 36	VFB_00050037	FBbt_00015091	Abdominal Segment 8 centrolateral Left	A8cl L		[422, 1548, 306]	cb6d4f
 37	VFB_00050251	FBbt_00007722	Noduli Primoridum	prNO		[491, 225, 233]	646464
-38	VFB_00050039		Tritocerebrum dorsal Left	TRd L		[368, 411, 231]	88419d
+38	VFB_00050039	FBbt_00007719	Tritocerebrum dorsal Left	TRd L		[368, 411, 231]	88419d
 39	VFB_00050040	FBbt_00007705	VNC ventrolateral Right	VNCvl R		[602, 811, 284]	84cb86
 40	VFB_00050041	FBbt_00015032	Mandibula ventrolateral Right	MDvl R		[626, 413, 282]	df65b0
 41	VFB_00050042	FBbt_00015039	Maxilla ventrolateral Right	MXvl R		[625, 466, 281]	c994c7
@@ -173,7 +173,7 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 172	VFB_00050173	FBbt_00110191	Lower Toe	LT		[490, 245, 244]	800026
 173	VFB_00050174	FBbt_00007715	Abdominal Segment 9 ventral Left	A9v L		[459, 1604, 290]	993404
 174	VFB_00050175	FBbt_00111205	Anterior Optic Tubercle Primoridum	AOTU		[492, 149, 250]	646464
-175	VFB_00050176		Tritocerebrum ventral Right	TRv R		[578, 345, 290]	8c96c6
+175	VFB_00050176	FBbt_00007720	Tritocerebrum ventral Right	TRv R		[578, 345, 290]	8c96c6
 176	VFB_00050177	FBbt_00007717	Tritocerebrum central Right	TRc R		[621, 410, 253]	8c6bb1
 177	VFB_00050178	FBbt_00111204	Clamp	CL		[488, 202, 195]	993404
 178	VFB_00050179	FBbt_00007703	VNC centromedial Right	VNCcm R		[525, 939, 262]	166eb8
@@ -208,8 +208,8 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 207	VFB_00050208	FBbt_00015096	Abdominal Segment 8 ventromedial Right	A8vm R		[535, 1548, 324]	fee391
 208	VFB_00050209	FBbt_00007064	Superior Lateral Protocerebrum	SLP		[486, 150, 200]	addd8e
 209	VFB_00050210	FBbt_00007127	Antennal Lobe	AL		[476, 278, 282]	0014cc
-210	VFB_00050211		Tritocerebrum centromedial Right	TRcm R		[580, 367, 254]	9ebcda
-211	VFB_00050212		Tritocerebrum centromedial Left	TRcm L		[378, 367, 254]	9ebcda
+210	VFB_00050211	FBbt_00007718	Tritocerebrum centromedial Right	TRcm R		[580, 367, 254]	9ebcda
+211	VFB_00050212	FBbt_00007718	Tritocerebrum centromedial Left	TRcm L		[378, 367, 254]	9ebcda
 212	VFB_00050213	FBbt_00007703	VNC centromedial Left	VNCcm L		[456, 931, 262]	166eb8
 213	VFB_00050214	FBbt_00015029	Mandibula centromedial Left	MDcm L		[418, 443, 252]	ae017e
 214	VFB_00050215	FBbt_00015036	Maxilla centromedial Left	MXcm L		[431, 482, 253]	dd3497
@@ -253,4 +253,4 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 252	VFB_00050254	FBbt_00007716	Abdominal Segment 9 centro Left	A9c L		[465, 1610, 311]	ec7014
 253	VFB_00050255	FBbt_00007716	Abdominal Segment 9 centro Right	A9c R		[547, 1607, 311]	de6c19
 254	VFB_00050256	FBbt_00007712	Thoracic Segment 2 Leg Neuropil Right	T2Leg R		[655, 778, 271]	c85d68
-255	VFB_00050257		Tritocerebrum ventral Left	TRv L		[359, 351, 289]	8c96c6
+255	VFB_00050257	FBbt_00007720	Tritocerebrum ventral Left	TRv L		[359, 351, 289]	8c96c6
