@@ -175,7 +175,7 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre	Colour
 174	VFB_00050175	FBbt_00111205	Anterior Optic Tubercle Primoridum	AOTU		[492, 149, 250]	646464
 175	VFB_00050176	FBbt_00007720	Tritocerebrum ventral Right	TRv R		[578, 345, 290]	8c96c6
 176	VFB_00050177	FBbt_00007717	Tritocerebrum central Right	TRc R		[621, 410, 253]	8c6bb1
-177	VFB_00050178	FBbt_00111204	Clamp	CL		[488, 202, 195]	993404
+177	VFB_00050178	FBbt_00111204	Clamp	CL		[488, 202, 195]	cc4c02
 178	VFB_00050179	FBbt_00007703	VNC centromedial Right	VNCcm R		[525, 939, 262]	166eb8
 179	VFB_00050180	FBbt_00015029	Mandibula centromedial Right	MDcm R		[537, 442, 252]	ae017e
 180	VFB_00050181	FBbt_00015036	Maxilla centromedial Right	MXcm R		[527, 482, 253]	dd3497
