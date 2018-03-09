@@ -7,5 +7,7 @@ The CompMatrix.tsv stores the same information but in tsv format and but has an 
 DomainIndex must match the Index in the compartment domain file, IndexKey.tsv in refData.
 
 
-Note: a CB domain is painted for both sides as one domain, so volume SIP overlap will be amount of neuron in total (both sides).
-the VNC is different: since the a VNC domain is painted for each individual side so volume A1dl r will overlap with neurons only innervating the right side but not those inntervating only the left.
+Note:
+<li> As a CB domain is painted for both sides as one domain, so volume SIP overlap will be amount of neuron in total (both sides). i.e. here overlap is:
+(voxels in neuron) n ( (voxels in left side of domain) u (voxels in right side of domain) )
+<li> The VNC is different: since the a VNC domain is painted for each individual side so volume A1dl r will overlap with neurons only innervating the right side but not those inntervating only the left.
