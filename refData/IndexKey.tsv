@@ -52,7 +52,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 51	VFB_00050052	FBbt_	Abdominal Segment 6 ventrolateral Right	A6vl R		[578, 1410, 305]	ec9b85
 52	VFB_00050053	FBbt_	Abdominal Segment 7 ventrolateral Right	A7vl R		[575, 1486, 316]	dc8467
 53	VFB_00050054	FBbt_	Abdominal Segment 8 ventrolateral Right	A8vl R		[576, 1547, 324]	ec9b85
-54	VFB_00050055	FBbt_00007118	Crepine	CR		[488, 198, 250]	993404
+54	VFB_00050055	FBbt_00007118	Crepine	CRE		[488, 198, 250]	993404
 55	VFB_00050056	FBbt_	Thoracic Segment 3 Leg Neuropil Right	T3Leg R		[651, 902, 262]	c85d68
 56	VFB_00050057	FBbt_00007070	posterior Inferior Protocerebrum	IPp		[495, 229, 204]	ec7014
 57	VFB_00050058	FBbt_	Thoracic Segment 3 Leg Neuropil Left	T3Leg L		[341, 901, 262]	c85d68
@@ -175,7 +175,7 @@ Index	Ind ID	Class ID	Name	Abbreviation	Note	Centre	Colour
 174	VFB_00050175	FBbt_00111205	Anterior Optic Tubercle Primoridum	AOTU		[492, 149, 250]	646464
 175	VFB_00050176	FBbt_	Tritocerebrum ventral Right	TRv R		[578, 345, 290]	8c96c6
 176	VFB_00050177	FBbt_	Tritocerebrum central Right	TRc R		[621, 410, 253]	8c6bb1
-177	VFB_00050178	FBbt_00111204	Clamp	CL		[488, 202, 195]	cc4c02
+177	VFB_00050178	FBbt_00111204	Clamp	CLA		[488, 202, 195]	cc4c02
 178	VFB_00050179	FBbt_	VNC centromedial Right	VNCcm R		[525, 939, 262]	166eb8
 179	VFB_00050180	FBbt_	Mandibula centromedial Right	MDcm R		[536, 448, 252]	ae017e
 180	VFB_00050181	FBbt_	Maxilla centromedial Right	MXcm R		[526, 489, 252]	dd3497
