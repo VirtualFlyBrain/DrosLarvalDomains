@@ -1,0 +1,32 @@
+{
+  "title": "Drosophila third-instar larval CNS template and painted domains",
+  "upload_type": "dataset",
+  "license": "cc-by-sa-4.0",
+  "creators": [
+    {
+      "name": "Wood, David"
+    },
+    {
+      "name": "Court, Robert",
+      "affiliation": "University of Edinburgh"
+    },
+    {
+      "name": "Osumi-Sutherland, David",
+      "affiliation": "Wellcome Sanger Institute",
+      "orcid": "0000-0002-7073-9172"
+    }
+  ],
+  "description": "<p>The third-instar larval central nervous system template and its painted domains for <i>Drosophila melanogaster</i>, served on Virtual Fly Brain as L3 CNS template - Wood2018 (VFB_00049000) with 255 painted domains. Virtual Fly Brain is the only public host for this template.</p><p><b>template/</b> holds the neuroglian (BP-104) template with separate brain and VNC volumes, an LPS-oriented CNS volume and a surface mesh; the full-resolution NRRD and Woolz volumes are split into chunks to stay under GitHub's file size limit and must be concatenated before use. <b>combinedIndexFiles/</b> and <b>individualDomainFiles/</b> hold the domain index volumes. <b>refData/</b> holds IndexKey.tsv, covering both lineage pipe domains and neuropil compartment domains, plus neuronInfo.tsv and the loader notebooks used to build the VFB records. <b>CompartmentOverlap/</b> holds a neuron-by-compartment overlap matrix in cubic microns, as NRRD and TSV.</p><p><b>Note on the overlap matrix:</b> central brain domains are painted as a single bilateral domain while VNC domains are painted per side, so overlaps are not symmetric between the two regions. See CompartmentOverlap/readMe.txt.</p><p>There is no publication describing this template; this deposit is the citable object.</p>",
+  "keywords": [
+    "Drosophila melanogaster",
+    "neuroanatomy",
+    "Virtual Fly Brain",
+    "larval CNS",
+    "third instar",
+    "template brain",
+    "neuropil domains",
+    "neuroglian",
+    "compartment overlap"
+  ],
+  "access_right": "open"
+}
