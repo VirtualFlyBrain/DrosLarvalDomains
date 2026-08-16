@@ -4,7 +4,7 @@ This repository holds image data, not software, and until August 2026 it carried
 licence at all — which meant, strictly, that no reuse was permitted. The `LICENSE`
 file at the root now states the terms.
 
-## CC BY-SA 4.0
+## CC BY 4.0
 
 The contents are released under the Creative Commons Attribution-ShareAlike 4.0
 International licence, matching the terms Virtual Fly Brain publishes for its own
@@ -32,3 +32,5 @@ DOI and credit the Virtual Fly Brain Consortium.
 Domain painting, index definitions and the compartment-overlap analysis in this
 repository are the work of several people; see the commit history. Anyone reusing
 this material should credit the repository as a whole rather than any single author.
+
+In August 2026 the licence was changed again, from CC BY-SA 4.0 to **CC BY 4.0**, to match the licence named in Virtual Fly Brain's own publication (Court et al. 2023, *Front. Physiol.* 14:1076533) and to allow deposition in EMBL-EBI archives, which accept CC0 or CC BY 4.0 but not ShareAlike. This widens permissions; it does not narrow them.
